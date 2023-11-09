@@ -2,7 +2,7 @@
 Build Redux-Toolkit CRUD application with React Hooks and Rest API calls in that:
 - Each item has id, title, description, published status.
 - We can create, retrieve, update, delete items.
-- There is a Search bar for finding items by title.
+- There is a Search bar for finding items by title
 
 ![redux-toolkit-crud-hooks-example](redux-toolkit-crud-hooks-example.png)
 
